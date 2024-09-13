@@ -1,10 +1,7 @@
-You're welcome! I'd be glad to help enhance your `README.md` to make it professional, comprehensive, and impressive. Below is the updated `README.md` for **py2md**, highlighting its benefits, features, and qualities like ease of use and time savings.
-
----
-
 # py2md
 
 *A streamlined solution to prepare your Python projects for AI-assisted development and enhancement.*
+
 
 ## Overview
 
